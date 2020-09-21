@@ -1,0 +1,14 @@
+.submit input {
+  background-color: #0000FF;
+  margin-left: 200px;
+  }
+.Contact {
+  font-size:1rem;
+  color: #000000;
+  background-color: #FFB6C1;
+  }
+.side_menu ul li a.activemenu {
+  color: #000000;
+  background-color: #D3D3D3;
+  opacity: 0.9;
+}

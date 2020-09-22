@@ -63,7 +63,7 @@ ul.top_menu {
 }
 .side_menu li:hover{
   opacity: 0.3;
-}s
+}
 .banner a:hover {
   opacity: 0.6;
 }
@@ -76,9 +76,11 @@ ul.top_menu {
 }
 .content{
   width: 480px;
-  margin-right:20px;
+  margin-right: 10px;
   float: right;
   font-size: 1.5rem;
+  text-decoration: none;
+  text-align: left;
   }
   name p {
   background-color: #ffffff;
@@ -94,16 +96,16 @@ ul.top_menu {
   width: 150px;
   background-color: #ffffff;
   }
-  submit p {
+  .submit p {
   background-color: #ffffff;
   color: blue;
   text-align: center;
   vertical-align: middle;
 }
-.side_menu ul li a.point{
+.side_menu .point{
   background-color: #D3D3D3;
 }
-.side_menu .point a{ 
+.side_menu .point a{
   color: #000000;
 }
 .footer{

@@ -1,6 +1,22 @@
-.submit input {
+  .reason {
+   text-align: left;
+   vertical-align: left;
+   width: 480px;
+   font-size: 1.5rem;
+   margin: 10px;
+  }
+  .submit input {
   background-color: #0000FF;
   margin-left: 200px;
+  }
+  .submit input:hover {
+    opacity: 0.6;
+  }
+  .submit .point{
+    background-color: #D3D3D3;
+  }
+  .submit .point input{
+    color: #000000;
   }
 .Contact {
   font-size:1rem;
